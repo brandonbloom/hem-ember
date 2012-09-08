@@ -1,0 +1,20 @@
+{
+  "name": "hem-ember",
+  "description": "Ember Handlebars compiler for Hem",
+  "version": "0.1.0",
+  "keywords": ["hem", "ember", "handlebars", "html"],
+  "author": {
+    "name": "jamesreggio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jamesreggio/hem-ember.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "ember": "~1.0.0"
+  },
+  "main": "lib/hem-ember.js"
+}
